@@ -1,2 +1,19 @@
-# Workforce-Navigator
-Workforce Navigator is a reliable web application designed for comprehensive employee management. It allows users to add, update, delete, and display employee details with ease. it enhances productivity through seamless data handling and a user-friendly interface. Built with Spring Boot and React.
+# TeamGrid
+
+**TeamGrid** is a backend web application for effective employee management, built with Spring Boot. It supports adding, updating, deleting, and viewing employee details, enhancing productivity through reliable data handling.
+
+## Features
+
+- **Add Employee**: Easily add new employee details.
+- **Update Employee**: Modify existing employee information.
+- **Delete Employee**: Remove employee records when needed.
+- **View Employee Details**: Display employee information with ease.
+
+## Technologies
+
+- Spring Boot
+
+### Prerequisites
+
+- Java 11 or later
+- Maven
